@@ -1,0 +1,43 @@
+_repo: Outlook-Odes_37085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crosland, T. W. H. (Thomas William Hodgson)
+    aliases:
+    - Crosland, Thomas William Hodgson
+    - McNeill, Angus
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '25879'
+    url: http://www.gutenberg.org/2009/agents/25879
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37085'
+  lccn: '91160409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+tableOfContents: To the Private Member -- To the true-born Briton (after Peace Night)
+  -- To the Cambridge crew -- To Dan Leno (on his appearance at Sandringham) -- To
+  the Pope -- The the right honourable Joseph Chamberlain (touching his audience of
+  the King) -- To the Tsar (after Dunkirk) -- To Dan Leno -- To the Poet Laureate
+  -- To the American invader -- To the "Muddied Oaf" -- To a publisher -- To an hotel
+  keeper -- To the man with a gun -- To the Stock Exchange (on its centenary) -- To
+  the Lord Mayor (November 9th) -- To the motorist -- To next Christmas -- To the
+  tripper -- To the Glasgow magistrates (on their proposal to banish barmaids) --
+  To a bookseller -- To the Deceased Wife's Sister -- To the Chancellor of the Exchequer
+  (before his retirement) -- To the Common Golfer -- To Mr. Pierpont Morgan -- To
+  Prince Edward of York (on the return of the "Ophir") -- To Mme. Bernhardt -- To
+  Sir William Harcourt -- To the King's Bulldog -- To the Daily Mail (August 3, 1901)
+  -- To Everybody.
+title: Outlook Odes
+url: http://www.gutenberg.org/ebooks/37085
